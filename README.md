@@ -25,7 +25,7 @@ end
 ```
 
 ```javascript
-  LoDashTemplates['admin/setting'](data); // Renders templates/admin/settings.lodash_template
+  LoDashTemplates['admin/settings'](data); // Renders templates/admin/settings.lodash_template
 ```
 
 ## Contributing
